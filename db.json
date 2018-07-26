@@ -11,6 +11,8 @@
       "link": "https://www.letsbuildthatapp.com/course/instagram-firebase",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQES9WxO78dQEQMq5gmklviAnMk9aW953lPA3dV9hpY5BUZbWmH",
       "numberOfViews": 20000,
+      "likes":10,
+      "dislikes":3,
       "channel": {
         "name": "Lets Build That App",
         "profileImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
@@ -23,6 +25,8 @@
       "link": "https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
       "imageUrl": "https://i1.wp.com/thefreshimages.com/wp-content/uploads/2017/12/lord-shiva-hd-images.jpg?resize=3840%2C2160&ssl=1",
       "numberOfViews": 5000,
+      "likes":121,
+      "dislikes":23,
       "channel": {
         "name": "Lets Build That App",
         "profileImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
@@ -35,6 +39,8 @@
       "link": "https://www.letsbuildthatapp.com/basic-training",
       "imageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/114bec2f-fbfd-4b13-91de-907fe57c6e37",
       "numberOfViews": 7500,
+      "likes":12,
+      "dislikes":13,
       "channel": {
         "name": "Lets Build That App",
         "profileImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
